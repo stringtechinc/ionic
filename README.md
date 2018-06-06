@@ -1,2 +1,2 @@
-# ionic2
+# ionic
 hybird app
